@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{D7EE0B4A-BD89-1290-9953-37353FA20AA0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="14" Column="27" />
+      <File FileName="Assets/Scripts/LaserDefender/EnemyBehavior.cs" Line="31" Column="15" />
+      <File FileName="Assets/Scripts/LaserDefender/EnemySpawner.cs" Line="87" Column="10" />
+      <File FileName="Assets/Scripts/LaserDefender/PlayerController.cs" Line="38" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Unity2D__Test PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
